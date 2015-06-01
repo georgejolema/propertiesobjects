@@ -1,2 +1,2 @@
 # propertiesobjects
-Encapsulate objects using the same idea of properties from c# in javascript
+Allows you simulate properties in your javascript objects as if it were C#
